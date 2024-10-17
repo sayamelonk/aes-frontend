@@ -54,7 +54,10 @@ function App() {
 
   return (
     <div style={{ padding: "20px" }}>
-      <h1>Encryption and Decryption AES-256</h1>
+      <p>Pembuat Riki Hikmianto</p>
+      <p>NIM 23.51.1430</p>
+
+      <h1 style={{ padding: "20px" }}>Encryption and Decryption AES-256</h1>
 
       <div style={{ marginBottom: "10px" }}>
         <input
@@ -95,11 +98,6 @@ function App() {
           )}
         </>
       )}
-
-      <footer>
-        <p>Pembuat Riki Hikmianto</p>
-        <p>NIM 23.51.1430</p>
-      </footer>
     </div>
   );
 }
