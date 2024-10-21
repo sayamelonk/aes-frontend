@@ -54,7 +54,7 @@ function App() {
 
   return (
     <div style={{ padding: "20px" }}>
-      <p>Pembuat Riki Hikmianto</p>
+      <p>Name Riki Hikmianto</p>
       <p>NIM 23.51.1430</p>
 
       <h1>Encryption and Decryption AES-256</h1>
